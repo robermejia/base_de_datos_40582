@@ -1,5 +1,5 @@
 # <center>Base de Datos - Sección 40582</center>
-## Docente: Evelyn Marilyn RIVEROS HUAMAN
+## Docente: Angel David ARROYO TABOADA
 <center>
 <img src="https://i.ibb.co/VjJkQwz/Captura-de-pantalla-2025-01-07-154518.png" style="width: 100% ; aspect-ratio:16/9">
 </center>
